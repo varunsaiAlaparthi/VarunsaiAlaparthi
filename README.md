@@ -7,7 +7,7 @@
 
 
 ## About me 
-Varun sai is currently pursuing his masters in Pennsylvania state university, University Park. Previously worked at Mathworks as a Deep learning engineer. He received his btech in Computer science and engineering at NIT Calicut. He is interested in AI , Deep learning and enjoys building software which lead him to purse his career in AI. He published Two conference papers in Deep learning genre. 
+Varun sai is currently pursuing his masters in Pennsylvania state university, University Park. Previously worked at Mathworks as a Deep learning engineer. He received his btech in Computer science and engineering at NIT Calicut. He is interested in AI , Deep learning and enjoys building software which lead him to purse his career in AI. He published Three conference and journal papers in Deep learning genre. 
 
 - 🔭 I’m currently working on Speech and text processing models, OCR for complex pdfs, self driving tech and many more.
 - 💬 Ask me about **ML, DL and RL**
